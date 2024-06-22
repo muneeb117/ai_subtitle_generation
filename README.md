@@ -1,2 +1,3 @@
 We are using the open ai whisper model for transcription and translation
-install the requirment 
+Install the requirment by running the command.
+Any Suggestion will be appreciated
